@@ -1,7 +1,7 @@
 ---
 title: "A Summary of My Learnings On How To Find Startup Ideas"
-date: 2022-12-02T12:39:37+08:00
-updated: 2022-12-02T12:39:37+08:00
+date: 2022-12-02T13:02:20+08:00
+updated: 2022-12-02T13:02:20+08:00
 taxonomies:
   tags: []
 extra:
@@ -141,45 +141,45 @@ Essentially what they did is spend an entire week coming up with as many ideas a
 
 They then spent the next two weeks after the brainstorm reducing their list by evaluating their ideas and eventually landing on Airwork.
 
-They then spent the next two weeks after the brainstorm reducing their list by evaluating their ideas and eventually landing on Airwork.
+在头脑风暴结束后的接下来的两周里，他们通过评估他们的想法并最终登陆 Airwork 来减少他们的清单。
 
 One of the topics mentioned above is “what’s changed recently” or “why now?” (Garry Tran also has a nice [video](https://www.youtube.com/watch?v=LioyyxLgfXQ&ab_channel=GarryTan) on this). I’ve listed out some topics to brainstorm around below, but I’d love to hear your input on what can be added to this list:
 
-One of the topics mentioned above is “what’s changed recently” or “why now?” (Garry Tran also has a nice [video](https://www.youtube.com/watch?v=LioyyxLgfXQ&ab_channel=GarryTan) on this). I’ve listed out some topics to brainstorm around below, but I’d love to hear your input on what can be added to this list:
+上面提到的主题之一是“最近发生了什么变化”或“为什么是现在？” （Garry Tran 也有关于此的精彩 [视频](https://www.youtube.com/watch?v=LioyyxLgfXQ&ab_channel=GarryTan) ）。 我在下面列出了一些要集思广益的主题，但我很想听听您对可以添加到此列表中的内容的意见：
 
 **Technological Changes:**
 
-**Technological Changes:**
+**技术变化：**
 
 -   Open AI’s GPT-3 and Codex
     
 -   Open AI’s GPT-3 and Codex
     
-    Open AI’s GPT-3 and Codex
+    打开 AI 的 GPT-3 和 Codex
     
 -   AI Image Generation / Dall-E
     
 -   AI Image Generation / Dall-E
     
-    AI Image Generation / Dall-E
+    人工智能图像生成 / Dall-E
     
 -   Improvements in AI classification + recommendation algorithms
     
 -   Improvements in AI classification + recommendation algorithms
     
-    Improvements in AI classification + recommendation algorithms
+    AI分类+推荐算法的改进
     
 -   ML algorithms that can run on smartphones
     
 -   ML algorithms that can run on smartphones
     
-    ML algorithms that can run on smartphones
+    可以在智能手机上运行的 ML 算法
     
 -   Web3 / Crypto / Digital Money / New Economic Models from Crypto
     
 -   Web3 / Crypto / Digital Money / New Economic Models from Crypto
     
-    Web3 / Crypto / Digital Money / New Economic Models from Crypto
+    Web3 / Crypto / 数字货币 / Crypto 的新经济模型
     
 -   Wearables and accumulation of health data e.g. Apple Watch heart data, Continuous glucose monitors
     
