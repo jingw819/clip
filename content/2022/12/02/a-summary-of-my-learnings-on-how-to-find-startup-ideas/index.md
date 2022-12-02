@@ -1,7 +1,7 @@
 ---
 title: "A Summary of My Learnings On How To Find Startup Ideas"
-date: 2022-12-02T12:34:29+08:00
-updated: 2022-12-02T12:34:29+08:00
+date: 2022-12-02T12:39:37+08:00
+updated: 2022-12-02T12:39:37+08:00
 taxonomies:
   tags: []
 extra:
