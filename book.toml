@@ -1,3 +1,4 @@
+url-base = "https://clip-template.vercel.app/"
 [book]
 title = "Sarah's Clip"
 description = "Sarah's Clip"
@@ -9,7 +10,7 @@ authors = ["Sarah_Jing"]
 enable = true
 files-glob = "**/*"
 command = "../../bin/mdbook-rss"
-url-base = "https://clip-template.vercel.app/"
+
 
 [output.html]
 git-repository-url = "https://github.com/theowenyoung/clip-template"
